@@ -1,0 +1,5 @@
+#+TITLE: Issues repository
+
+This is meant to be a hub for all issues related to RaccPack, be it with the server or with the client, and anything in between.
+
+Click [[https://github.com/RaccPackMC/issues/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc][HERE]] to open the issues list, or click [[https://github.com/RaccPackMC/issues/issues/new][HERE]] to create a new issue.
